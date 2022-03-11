@@ -1,2 +1,2 @@
 #!/bin/bash
-thbk
+gcc -S $CFiLE\
