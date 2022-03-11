@@ -1,5 +1,5 @@
 #include<stdio.h>
-7*
+/*
 *main-Entry point
 *
 * Return:Always 0 (success)
