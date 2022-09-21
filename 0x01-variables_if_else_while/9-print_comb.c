@@ -2,7 +2,7 @@
 
 /**
  * main - Prints numbers between 0 to 9 with commas and space.
- * 
+ *
  * Return: Always 0 (success)
  */
 int main(void)
