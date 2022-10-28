@@ -15,27 +15,3 @@ int get_endianness(void)
 
 	return ((int)*c);
 }
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
--- INSERT --                                              0,1           All
-
